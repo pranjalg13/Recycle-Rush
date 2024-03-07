@@ -7,3 +7,6 @@ Recycle Rush challenges players to clean up the planet by collecting various typ
 ![Screenshot_20240225-154529](https://github.com/pranjalg13/Recycle-Rush/assets/47600057/73025403-c888-49c1-adf5-408d5f4bcaa5)
 ![Screenshot_20240225-154517](https://github.com/pranjalg13/Recycle-Rush/assets/47600057/c5a81529-4364-4b25-9b51-b673b59bc507)
 
+
+### Special Mentions
+Spellthron [For providing base tutorials] and itch.io [for assets]
