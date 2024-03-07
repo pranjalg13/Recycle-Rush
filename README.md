@@ -1,4 +1,5 @@
-Recycle Rush challenges players to clean up the planet by collecting various types of garbage items like plastic bottles, cans, newspapers, and banana peels across three exciting levels. By doing so, players contribute to making the world safer from trash.
+## Recycle Rush 
+It challenges players to clean up the planet by collecting various types of garbage items like plastic bottles, cans, newspapers, and banana peels across three exciting levels. By doing so, players contribute to making the world safer from trash.
 
 
 ![Screenshot_20240225-154632](https://github.com/pranjalg13/Recycle-Rush/assets/47600057/65b8fd15-9e55-49cb-bc72-29ea20b38178)
